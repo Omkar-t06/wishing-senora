@@ -2,9 +2,12 @@
   "name": "wishing-senora",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Omkar-t06.github.io/wishing-senora/",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -12,6 +15,7 @@
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^11.12.0",
+    "lucide-react": "^0.462.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-type-animation": "^3.2.0",
@@ -27,6 +31,7 @@
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.14",
+    "gh-pages": "^6.2.0",
     "globals": "^15.12.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.15",
