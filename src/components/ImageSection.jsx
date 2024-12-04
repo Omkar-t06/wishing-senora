@@ -6,9 +6,9 @@ function ImageSection() {
       <div>
         <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-white dark:bg-zinc-900 text-teal-50">
           <img
-            src="src\assets\react.svg"
+            src="src/assets/senora.jpeg"
             alt="Aapka hi photo tha pata nhi kaha gya :'("
-            className="rounded-lg shadow-lg w-80 md:w-96"
+            className="rounded-lg shadow-lg"
           />
         </BackgroundGradient>
       </div>
