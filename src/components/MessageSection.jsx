@@ -18,7 +18,9 @@ return (
                             <p className="text-lg">I wish you always be happy & blessed. All your good dreams come true! I know ye sab log bolte h isme kya naya hai! Isliye ye banna pada. Apna pyaar bhi tho dikhna tha, YK! you are special. Blessed to have you in my life (acchi kismat meri!! Thank God) 🙏</p>
                             <p className="text-lg">Kuch bhi bolo, aapki smile bohut pyari h 😊 aise haste rhna! maze karte rhna! Apna Khayal rkhna aur kabhi kabhi humare liye bhi time nikalo!! 😇</p>
                             <p className="text-lg">Sorry for any typo (aap samjh jate ho ik!!) and so sorry for using your photo without your permission and photo koi aur nhi mili mat sochna aapki photos noii h mere pass 😅</p>
+                            <p className="text-lg font-medium">Te amo!</p>
                     </div>
+                <p className="text-right text-emerald-50 font-semibold">~ Jhuta Insaan</p>
             </BackgroundGradient>
     </div>
 )

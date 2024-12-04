@@ -36,6 +36,9 @@ function Welcome() {
             className="font-medium text-base md:text-3xl bg-clip-text text-transparent bg-gradient-to-br from-[#FFC1CC] to-[#FFD700] py-4"
         />
       </motion.div>
+      <div className="absolute bottom-12">
+      <img src="https://omkar-t06.github.io/portfolio/down-arrow.8b6aeb0f.svg" alt="scroll down" className="w-12 h-12"></img>
+      </div>
     </AuroraBackground>
   )
 }
